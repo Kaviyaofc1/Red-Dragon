@@ -122,7 +122,7 @@ global.dragonemoji = '🐲' // Menu emoji
 global.footer = '⚡ ᴍᴀᴅᴇ ʙʏ ᴋᴀᴠɪʏᴀ ᴏꜰᴄ ᴛᴇᴀᴍ ⚡' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94701659592'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
