@@ -11,73 +11,50 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `╭────────────────   
+global.alivemsg = `*🧸̶⃮⃖🤍̶⃮⃖🦋ɪᴍ ᴏɴʟɪɴᴇ ɴᴏᴡ❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨*
 
-🐲┼ *✪𝚃𝙾 𝙺𝙽𝙾𝚆 𝙰𝙱𝙾𝚄𝚃 𝚃𝙷𝙴*
-
-      ├ 𝙲𝙾𝙼𝙼𝙰𝙽𝙳,𝚃𝚈𝙿𝙴*
-
-      ├  .𝙼𝙴𝙽𝚄 𝙰𝙽𝙳 𝚂𝙴𝙽𝙳 𝙸𝚃𝙻*
-
-      │
-
-      ├  **🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
-      │
-
-🐲┼  *᯾✪𝙸𝙽 𝙵𝚁𝙾𝙽𝚃 𝙾𝙵 𝚃𝙷𝙴*
-
-      ├  𝙲𝙾𝙼𝙼𝙰𝙽𝙳 . 𝙷𝙰𝚅𝙴 𝙾𝙽𝙴*
-
-      │
-
-      ├  **🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
-      │
-
-🐲┼  *✪𝙳𝙾𝙽'𝚃 𝚄𝚂𝙴 𝙱𝙾𝚃 𝙵𝙾𝚁
-
-      ├  𝚄𝙽𝙽𝙴𝙲𝙴𝚂𝚂𝙰𝚁𝚈 𝚆𝙾𝚁𝙺*
-
-      │
-
-      ├  **🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
-      ╰────────────────
+     ┏━━━━━━━✪✪━━━━━━━┓
+       *_𓄂᳆⃞🌹̶͟͞✆_* *ᴋᴀᴠɪʏᴀ ᴏғᴄ* 
+     ┗━━━━━━━✪✪━━━━━━━┛
 
       ╭────────────────
-
-🐲┼ *✪කමාන්ඩ් දැන ගැනිමට*
-
-      ├ .menu ලෙස ටයිප් කරන්න*
-
+🧚🏻‍♀️┼ *ᴛᴏ ᴋɴᴏᴡ ᴀʙᴏᴜᴛ ᴛʜᴇ*
+      ├ *ᴄᴏᴍᴍᴀɴᴅ, ᴛʏᴘᴇ*
+      ├  *.ᴍᴇɴᴜ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛʟ*
+      │
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
+      │
+🧚🏻‍♀️┼  *ɪɴ ꜰʀᴏɴᴛ ᴏꜰ ᴛʜᴇ*
+      ├  *ᴄᴏᴍᴍᴀɴᴅ . ʜᴀᴠᴇ ᴏɴᴇ*
+      │
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
+      │
+🧚🏻‍♀️┼  *ᴅᴏɴ'ᴛ ᴜꜱᴇ ʙᴏᴛ ꜰᴏʀ*
+      ├  *ᴜɴɴᴇᴄᴇꜱꜱᴀʀʏ ᴡᴏʀᴋ*
+      │
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
+      ╰────────────────
+      ╭────────────────
+🧚🏻‍♀️┼ *කමාන්ඩ් දැන ගැනිමට*
+      ├ *.menu ලෙස ටයිප් කරන්න*
       │  
-
-      ├  **🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
       │
-
-🐲┼  *✪කමාන්ඩ් එකට ඉස්සරහින්*
-
-      ├  . එකක් තියන්න*
-
+🧚🏻‍♀️┼  *කමාන්ඩ් එකට ඉස්සරහින්*
+      ├  *. එකක් තියන්න*
       │
-
-      ├  **🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
       │
-
-🐲┼  *✪අනවශ්‍ය වැඩ වලට*
-
-      ├  බොට්ව පාවිච්චි*
-
-      │  කරන්න එපා*
-
+🧚🏻‍♀️┼  *අනවශ්‍ය වැඩ වලට*
+      ├  *බොට්ව පාවිච්චි*
+      │  *කරන්න එපා*
       │
+      ├  *🧸̶⃮⃖🤍̶⃮⃖🦋||❤️‍🔥  ̶⃮⃖|🍓̶⃮⃖✨̶⃮⃖🌸*
+      ╰────────────────
 
-      ├  *🧸̶⃮⃖🤍̶⃮⃖||||♣️  ̶⃮⃖|♠️  ̶⃮⃖|♥️  ̶⃮⃖|♦️  ̶⃮⃖|✨̶⃮⃖🌸*
-
-      ╰────────────────────
+╭──────✆───────
+GROUP LINK :-https://chat.whatsapp.com/F950olXvdc6JH4ZXoH0TQx
+╰──────✆───────
 ` //Costomize Alive Message (type your message in `` )
 
 
@@ -102,7 +79,7 @@ global.socialm = "GitHub: Kaviyaofc1" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
 
 //bot body 
-global.alivepic = `https://telegra.ph/file/d950381ce6b16a83c6240.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
@@ -115,7 +92,7 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94701659592']
 global.ownertag = '+94775418384' //your tag number
-global.botname = '🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 - BOT' //ur bot name
+global.botname = '🎭🇱🇰 KAVIYA OFC 🇱🇰🎭' //ur bot name
 global.packname = "*▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*" // sticker packname
 global.author = "🎭🇱🇰 KAVIYA OFC 🇱🇰🎭" // sticker author
 global.dragonemoji = '🐲' // Menu emoji
