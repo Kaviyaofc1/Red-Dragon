@@ -137,12 +137,12 @@ global.mess = {
    umpanawal: 5,
    potionawal: 1
 }
-global.thum = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur error pic
-global.thumb = fs.readFileSync("./Android/AllData/theme/repl.jpg") //ur thumb pic
+global.thum = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur thumb pic
+global.log0 = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur logo pic
+global.err4r = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur error pic
+global.thumb = fs.readFileSync("https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg") //ur thumb pic
 
-global.thumb = fs.readFileSync('./Android/AllData/theme/repl.jpg')
+global.thumb = fs.readFileSync('https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
