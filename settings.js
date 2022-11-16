@@ -83,7 +83,7 @@ global.alivepic = `https://telegra.ph/file/a8a94d212fd52906b3c8d.jpg` // alive p
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 global.antispam = "true" // To remove or block spammers
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "false" // true/false \\ bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
@@ -121,7 +121,7 @@ global.mess = {
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban',
     badwords: '*🚫Bad Words Not Allowed Here !*\n\n⚠️ Warning... ⚠️',
-    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\nPowered By: *ʀᴇᴅ-ᴅʀᴀɢᴏɴ*',
+    spam: '⚠️ [SPAM] Detected ⚠️\n\nThe emergency security system was activated.\n\n⚡ ᴍᴀᴅᴇ ʙʏ ᴋᴀᴠɪʏᴀ ᴏꜰᴄ ᴛᴇᴀᴍ ⚡',
     caption: '*▷ ᴹᴬᴰᴱ 🄱🅈 🎭🇱🇰 KAVIYA OFC 🇱🇰🎭 │*'
 } // END \\
     global.limitawal = {
